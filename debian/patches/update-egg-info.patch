@@ -1,0 +1,11 @@
+Description: Changes dependencies order in requires.txt
+Author: Kouhei Maeda
+Last-Update: 2021-02-01
+Index: sphinxcontrib-blockdiag-2.0.0/sphinxcontrib_blockdiag.egg-info/requires.txt
+===================================================================
+--- sphinxcontrib-blockdiag-2.0.0.orig/sphinxcontrib_blockdiag.egg-info/requires.txt	2021-02-01 19:54:52.062635533 +0900
++++ sphinxcontrib-blockdiag-2.0.0/sphinxcontrib_blockdiag.egg-info/requires.txt	2021-02-01 19:55:34.986633773 +0900
+@@ -1,2 +1,2 @@
+-blockdiag>=1.5.0
+ Sphinx>=2.0
++blockdiag>=1.5.0
